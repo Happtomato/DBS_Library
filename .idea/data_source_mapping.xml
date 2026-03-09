@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/DBSetup/books.sql" value="a2ef770b-99eb-4be7-b0f1-f312f807ca74" />
-    <file url="file://$PROJECT_DIR$/DBSetup/goodreads_reviews.sql" value="a2ef770b-99eb-4be7-b0f1-f312f807ca74" />
+    <file url="file://$PROJECT_DIR$/Tables/books.sql" value="a2ef770b-99eb-4be7-b0f1-f312f807ca74" />
+    <file url="file://$PROJECT_DIR$/Tables/goodreads_reviews.sql" value="a2ef770b-99eb-4be7-b0f1-f312f807ca74" />
+    <file url="file://$PROJECT_DIR$/data/load_data.sql" value="a2ef770b-99eb-4be7-b0f1-f312f807ca74" />
   </component>
 </project>
